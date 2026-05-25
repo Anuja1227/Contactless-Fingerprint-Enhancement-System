@@ -35,6 +35,11 @@ The project aims to produce a comparative performance assessment paper analyzing
 
 - IIITD Fingerprint Dataset
 
+## Basic Steps Followed
+1. Preprocessing : Segmentation -> YOLO-based, video followed : https://www.youtube.com/watch?v=r0RspiLG260
+2. Three Approaches Applied
+3. Postprocessing
+   
 ## References
 
 - Hong et al. fingerprint enhancement using Gabor filtering
